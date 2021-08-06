@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 720px;
+  justify-content: center;
+  background-color: black;
+  height: 1000px;
+  align-content: center;
+}
+
+.feedItem {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  background-color: aqua;
+}
